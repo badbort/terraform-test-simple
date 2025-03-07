@@ -1,0 +1,10 @@
+TestRg1:
+  roleAssignments:
+    users:
+      Contributor:
+        - fred
+  location: Australia East
+  tags:
+    TestTag1: Tag1Value
+    TestTag2: Tag2Value
+    TestTag3: Tag3alue
